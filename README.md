@@ -2,6 +2,8 @@
 
 Fair Value Gap (FVG) indicator for cTrader that detects and highlights price imbalances on charts.
 
+![FVG Highlighter Screenshot](screenshot.png)
+
 ## What is a Fair Value Gap?
 
 A Fair Value Gap (FVG) occurs when there is an imbalance between buyers and sellers, creating a gap in price action:
