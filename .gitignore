@@ -9,3 +9,7 @@ obj/
 
 # NuGet
 packages/
+
+# Environment
+.env
+.env.*
